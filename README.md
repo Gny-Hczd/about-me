@@ -7,7 +7,7 @@
 - 💻 Interested in **software development, algorithm development, and cybersecurity**  
 - 🐍 Learning **Python** ![My Skills](https://skillicons.dev/icons?i=python) systematically through tutorials, exercises, and small projects  
 - 🧩 Improving my **problem-solving** skills with algorithm challenges  
-- 🌱 Planning to learn **C++,Java after mastering Python**
+- 🌱 Planning to learn **C++, Java** after mastering Python
 
 ---
 

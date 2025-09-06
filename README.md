@@ -1,13 +1,11 @@
 # Hi, I'm Günay 👋
 🎓 Student at Baku Engineering University  
 💻 Strong interest in programming  
-
 ---
-
 ## 🚀 About Me
 - 🎯 Currently exploring programming and related fields  
 - 💻 Interested in **software development, algorithm development, and cybersecurity**  
-- 🐍 Learning **Python** systematically through tutorials, exercises, and small projects  
+- 🐍 Learning **Python** ![My Skills](https://skillicons.dev/icons?i=python) systematically through tutorials, exercises, and small projects  
 - 🧩 Improving my **problem-solving** skills with algorithm challenges  
 - 🌱 Planning to learn **Java, C++, or JavaScript** after mastering Python  
 
